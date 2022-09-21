@@ -1,7 +1,7 @@
 git status
 Esta es la historia de Andrea 
 habia una vez una chica de 25 años, a un par de días de cumplir 26
-le gusta mucho estudiar y hacer ddeportes
+le gusta mucho estudiar, hacer deportes y dibujar
 ahora se encuentra estudiando desarrollo en la UNAB.
 Se siente feliz porque ha llegado a hacer cosas que no esperaba. 
 Hoy tiene una firma de abogados corporativos propia, que va en constante crecimiento.
