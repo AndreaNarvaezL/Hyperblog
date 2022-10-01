@@ -37,3 +37,15 @@ body
     font-size 20px;
 
 }
+#post
+{
+    background-color: #ddd;
+    padding: 1em;
+}
+#footer
+{
+    background-color: blue;
+    color: #ddd;
+    text-align: center;
+    padding: 00.5em;
+}
